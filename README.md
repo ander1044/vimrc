@@ -1,7 +1,7 @@
 # vimrc
 Vim configuration file.
 
-# instruction:
+# instructions
 1: open terminal
 
 2: type the following cd~/&& vim .vimrc and paste the vimrc code there.
